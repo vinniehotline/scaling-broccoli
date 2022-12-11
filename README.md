@@ -1,3 +1,7 @@
 # scaling-broccoli
 afk game
-theme: cayman
+
+its very cool
+
+# updates
+none yet
